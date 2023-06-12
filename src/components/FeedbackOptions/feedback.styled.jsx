@@ -20,4 +20,4 @@ export const Button = styled.button`
     background-color: black;
     cursor: pointer;
   }
-`;
+`; 
